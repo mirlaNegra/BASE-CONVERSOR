@@ -5,7 +5,7 @@ This powershell script converts the base of a number between the hexadecimal, oc
 *Every dec-bin result on 3, 4, 7 and 8 must be four digit wide on hex and three digit wide on oct
 *Potentiation(x^n) - Multiplication(x * n) - Division(x / n) - Index(x(n))
 
-1. dec-hex or oct or bin
+1. dec-hex or oct or bin (Esencial)
 Example: 
 1.(D/16)
 2.((D/16))/16
@@ -17,7 +17,7 @@ n.n/16 = 1
 
 hex = ResidueN Residue5 Residue4 Residue3 Residue2 Residue1
 
-2. bin-dec
+2. bin-dec (Esencial)
 *n = Binary number length
 dec= bin(1) * 2^1-1 + bin(2) * 2^2-1 + bin(3) * 2^3-1 + bin(4) * 2^4-1 + bin(5) * 2^5-1 + ... + bin(n) * 2^n-1
 
